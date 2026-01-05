@@ -1,5 +1,5 @@
 ### Olá, sou o Gabriel! 👋
-🎓 Estudante de Engenharia Informática / Computação na UFERSA
+🎓 Estudante de Ciência da Computação na UFERSA
 🚀 Focado em Engenharia de Dados e Business Intelligence
 🥋 Praticante de Jiu-Jitsu nas horas vagas
 
