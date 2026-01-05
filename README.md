@@ -3,8 +3,6 @@
 
 🚀 Focado em Engenharia de Dados e Business Intelligence
 
-🥋 Praticante de Jiu-Jitsu nas horas vagas
-
 
 **🛠️ Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -15,7 +13,7 @@
 | Projeto | Stack | Link |
 | :--- | :--- | :--- |
 | 🎬 **Análise IMDb** | Python (ETL) + Power BI | [Ver Repo](https://github.com/GabrielCleverton/analiseFilmes-IMDB-ETL) |
-| 🛒 **E-commerce Olist** | SQL + Data Warehouse | *Em construção* |
+| 🛒 **E-commerce Olist** | SQL + Data Warehouse | [Ver Repo](https://github.com/GabrielCleverton/olist-Ecommerce-ETL) |
 
 <!--
 **GabrielCleverton/GabrielCleverton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
