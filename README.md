@@ -1,7 +1,10 @@
 ### Olá, sou o Gabriel! 👋
 🎓 Estudante de Ciência da Computação na UFERSA
+
 🚀 Focado em Engenharia de Dados e Business Intelligence
+
 🥋 Praticante de Jiu-Jitsu nas horas vagas
+
 
 **🛠️ Tech Stack:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
